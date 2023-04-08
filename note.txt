@@ -1,0 +1,8 @@
+mega menu font icons not comlete 
+in the team member section i don't have time to make colorer link
+buttom in the plans section : same problem with position relative and the cursor pointer
+we can use writing mode property in the css to chose (شغل مسار تع كتبة وين يروح)
+open in console ctrl + shift + j
+open in inspect ctrl + shift + c
+we can do resize to text area
+resize: none;
